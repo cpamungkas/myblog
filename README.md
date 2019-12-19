@@ -1,2 +1,0 @@
-# myblog
-Free HTML myblog
